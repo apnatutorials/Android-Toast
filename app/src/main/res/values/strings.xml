@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android Toast</string>
+    <string name="default_toast">Default Toast</string>
+    <string name="success_toast">Success Toast</string>
+    <string name="Error_toast">Error Toast</string>
+    <string name="warning_toast">Warning Toast</string>
+
+    <string name="default_message">This is default toast message</string>
+    <string name="success_message">This is success toast message</string>
+    <string name="error_message">This is error toast message</string>
+    <string name="warning_message">This is warning toast message</string>
+
+</resources>
